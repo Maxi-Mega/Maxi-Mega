@@ -22,7 +22,7 @@
 ## My technical stack:
 
 <div id="icons" align="center" style="margin-bottom: 30px">
-    <img alt="languages" height="30px" src="https://img.shields.io/badge/-⬖ Languages-61d9fa"/>
+    <img alt="languages" height="35px" src="https://img.shields.io/badge/-⬖ Languages-61d9fa"/>
     <img alt="html5" height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img alt="css3" height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
     <img alt="javascript" height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -34,7 +34,7 @@
 </div>
 
 <div id="Tools" align="center">
-    <img alt="tools" height="30px" src="https://img.shields.io/badge/-⬖ Tools-61d9fa"/>
+    <img alt="tools" height="35px" src="https://img.shields.io/badge/-⬖ Tools-61d9fa"/>
     <img alt="mysql" height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img alt="postgresql" height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
     <img alt="mongodb" height="35px" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
